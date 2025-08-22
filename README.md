@@ -1,10 +1,10 @@
 # API Fórmula 1 - Node.js + Fastify
 ---
 ## Conteúdo
-- [Resumo](#resumo)
-- [Tecnologias](#tecnologias)
-- [Instalação](#instalação)
-- [Como usar](#como)
+- [Resumo](#resumo-)
+- [Tecnologias](#tecnologias-utilizadas-)
+- [Instalação](#instalação-)
+- [Como usar](#como-usar-)
 
 ### Resumo 📃
 Projeto de API de Fórmula 1 criado durante o [Bootcamp Meutudo - Mobile Developer + Dio](https://web.dio.me/track/meutudo-mobile-developer). A proposta é oferecer uma API simples, de rápida implementação e com poucas camadas de abstração, ideal para projetos menores ou para estudos.
@@ -29,7 +29,7 @@ npm run start:dev
 ``` 
 A API irá rodar em:
 ```
-htpt://localhost:8000
+http://localhost:8000
 ```
 | Endpoints | GET |
 | ------ | ---------|
